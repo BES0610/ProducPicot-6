@@ -7,7 +7,8 @@
         "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/9dc161af82f9a91f5cf1e9ed8b9c3a7e.jpeg",
         "rating": {
             "rate": 4.6,
-            "count": 400,
+            "count": 400
+        },
             "Name": "lettuce",
             "Type1": "Grany Smit",
             "Type2": "Stark Spur Golden",
@@ -15,5 +16,4 @@
             "Type4": "Fuji",
             "Type5": "Stark Spur Golden",
             "Type6": "local"
-        }
     }
